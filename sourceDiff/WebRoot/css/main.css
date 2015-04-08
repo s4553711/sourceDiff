@@ -1,0 +1,31 @@
+html, body {
+	width: 100%;
+	height: 100%;
+}
+.container {
+	width: 1020px;
+	margin: 10px auto;
+	min-height: 90%;
+	/*border: 1px solid #d5d5d5;*/ 
+}
+.custom-form {
+	width: 500px;
+	padding: 10px;
+	margin: 30% auto 0;
+	border: 1px solid #d5d5d5;
+	border-radius: 5px;
+	box-sizing: border-box;
+}
+.custom-form p {
+	  margin: 6px 0;
+}
+.custom-form input {
+	display: inline-block;
+	width: 90px;
+}
+.info-region {
+	box-sizing: border-box;
+	width: 500px;
+	padding: 10px;
+	margin: 10px auto 0;
+}
